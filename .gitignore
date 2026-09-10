@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Trained model checkpoints
+models/
+
+# Plot previews extracted from the notebook
+_preview/
+
+# Jupyter
+.ipynb_checkpoints/
+
