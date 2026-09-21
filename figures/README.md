@@ -11,4 +11,3 @@ Plots produced by `notebook.ipynb` for the report and slides.
 | `07_forbidden_vs_allowed_augmentation.png` | Why flip / large rotation are forbidden |
 | `08_roi_autocontrast_dark_example.png` | ROI crop + autocontrast on a dark frame |
 | `09_f1_top_bottom.png` | Weakest and strongest classes by F1 |
-| `11_baseline_vs_pipeline.png` | Weaker setup vs final pipeline on the test set |

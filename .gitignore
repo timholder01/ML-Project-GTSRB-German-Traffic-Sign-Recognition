@@ -226,3 +226,6 @@ _preview/
 # Jupyter
 .ipynb_checkpoints/
 
+# Private working notes (not part of the submission)
+notes-private/
+
